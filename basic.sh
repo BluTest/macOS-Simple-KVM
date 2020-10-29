@@ -6,6 +6,7 @@ OVMF=$VMDIR/firmware
 #export QEMU_AUDIO_DRV=pa
 #QEMU_AUDIO_DRV=pa
 MAURICE_PASSWORD = 'B3n15Aw350mE!'
+MAURICE2_PASSWORD = "B3n15Aw350mE!"
 
 qemu-system-x86_64 \
     -enable-kvm \
